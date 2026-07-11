@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍🎓 About Me
-I'm a passionate student at **Gomel State Technical University**, diving deep into the Java ecosystem. I love building complex systems and constantly challenging myself to learn new technologies. Currently exploring microservices architecture and message queues.
+I'm a passionate student at **Gomel State Technical University**, diving deep into the Java ecosystem. I love building complex systems and constantly challenging myself to learn new technologies. I was involved in competitive programming for several years. Currently exploring microservices architecture and message queues. 
 
 ### 🌱 I’m currently learning
 - Java (some advanced skills)

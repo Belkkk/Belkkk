@@ -11,19 +11,22 @@
 
 ---
 
+### 👨‍🎓 About Me
+I'm a passionate student at **Gomel State Technical University**, diving deep into the Java ecosystem. I love building complex systems and constantly challenging myself to learn new technologies. Currently exploring microservices architecture and message queues.
+
 ### 🌱 I’m currently learning
-- Java (give me work pls)
-- Spring
-- Kafka
-- Postgres
+- Java (some advanced skills)
+- Spring (Security, Data)
+- Kafka (optimization for my apps)
+- Postgres (depth work)
 
 ### 🔭 I’m currently working on
-- Building simple applications using Java.
-
+- **Network Emulator** – Java-based simulation tool for network protocols
+- **Store Application** – E-commerce backend with Spring Boot (in progress)
 
 ### 📫 How to reach me:
-[Email](nikitakarpovich14082007@gmail.com)
-[Telegram](@Belkkk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakarpovich14082007@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Belkkk)
 
 ---
 

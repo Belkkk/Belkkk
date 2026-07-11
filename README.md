@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Belkkk 👋</h1>
 <h3 align="center">Backend Engineer | Java & Spring Ecosystem</h3>
 
 <p align="center">
@@ -11,37 +11,28 @@
 
 ---
 
-### 🔭 I’m currently working on
-Building scalable microservices architecture using **Spring Boot 3** and **Spring Cloud**. Focused on performance optimization and clean, maintainable code.
-
 ### 🌱 I’m currently learning
-- **Kafka** for distributed event streaming.
-- **Kubernetes** for container orchestration.
-- **Reactive Programming** with Project Reactor.
+- Java (give me work pls)
+- Spring
+- Kafka
+- Postgres
 
-### 💬 Ask me about
-- REST API Design & Documentation (Swagger/OpenAPI).
-- Spring Data JPA & Hibernate performance tuning.
-- Authentication & Authorization (Spring Security, JWT, OAuth2).
-- Database migration (Flyway/Liquibase).
+### 🔭 I’m currently working on
+- Building simple applications using Java.
+
 
 ### 📫 How to reach me:
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@domain.com)
+[Email](nikitakarpovich14082007@gmail.com)
+[Telegram](@Belkkk)
 
 ---
 
 ### 🛠️ My Tech Stack
 
-**Core:** `Java 17/21` `Spring Boot` `Spring MVC` `Spring Data` `Spring Security`
+**Core:** `Java 17/21` `Spring Boot` `Spring MVC` `Spring Data`
 
-**Databases:** `PostgreSQL` `MySQL` `MongoDB` `Redis`
+**Databases:** `PostgreSQL`
 
-**DevOps & Tools:** `Docker` `AWS (EC2, RDS, S3)` `Git` `Maven/Gradle` `Jenkins` `Linux`
+**DevOps & Tools:** `Git` `Maven`
 
-**Testing:** `JUnit 5` `Mockito` `Testcontainers`
-
----
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+**Testing:** `JUnit 5`

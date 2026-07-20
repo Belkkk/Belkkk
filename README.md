@@ -16,7 +16,6 @@ I'm a passionate student at **Gomel State Technical University**, diving deep in
 ### 🌱 I’m currently learning
 - Java (some advanced skills)
 - Spring (Security, Data)
-- Kafka (optimization for my apps)
 - Postgres (depth work)
 
 ### 🔭 I’m currently working on

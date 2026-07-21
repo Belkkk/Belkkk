@@ -34,6 +34,6 @@ I'm a passionate student at **Gomel State Technical University**, diving deep in
 
 **Databases:** `PostgreSQL`
 
-**DevOps & Tools:** `Git` `Maven`
+**DevOps & Tools:** `Git` `Maven` `Docker`
 
 **Testing:** `JUnit 5`

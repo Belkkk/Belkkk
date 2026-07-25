@@ -6,23 +6,29 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
-I'm a passionate student at **Gomel State Technical University**, diving deep into the Java ecosystem. I love building complex systems and constantly challenging myself to learn new technologies. I was involved in competitive programming for several years. Currently exploring microservices architecture and message queues. 
+
+I'm a passionate student at **Gomel State Technical University**, diving deep into the Java ecosystem. I love building complex systems and constantly challenging myself to learn new technologies. I was involved in competitive programming for several years. Currently exploring microservices architecture and message queues.
 
 ### 🌱 I’m currently learning
-- Java (some advanced skills)
-- Spring (Security, Data)
-- Postgres (depth work)
+
+- Java (advanced features, performance tuning)
+- Spring (Security, Data, Cloud)
+- PostgreSQL (query optimization, indexing, transactions)
+- Docker (containerization, multi-container apps)
 
 ### 🔭 I’m currently working on
-- **Network Emulator** – Java-based simulation tool for network protocols
-- **Store Application** – E-commerce backend with Spring Boot (in progress)
 
-### 📫 How to reach me:
+- **Network Emulator** – Java-based simulation tool for network protocols
+- **Store Application** – E-commerce backend with Spring Boot + PostgreSQL + Docker
+
+### 📫 How to reach me
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakarpovich14082007@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Belkkk)
 
@@ -30,10 +36,10 @@ I'm a passionate student at **Gomel State Technical University**, diving deep in
 
 ### 🛠️ My Tech Stack
 
-**Core:** `Java 17/21` `Spring Boot` `Spring MVC` `Spring Data`
+**Core:** `Java 17/21` `Spring Boot` `Spring MVC` `Spring Data` `Spring Security`
 
-**Databases:** `PostgreSQL`
+**Databases:** `PostgreSQL` `Flyway`
 
-**DevOps & Tools:** `Git` `Maven` `Docker`
+**DevOps & Tools:** `Docker` `Git` `Maven` `Linux (Ubuntu)`
 
-**Testing:** `JUnit 5`
+**Testing:** `JUnit 5` `Postman`
